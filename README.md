@@ -8,6 +8,9 @@ Inspired by this project: https://www.ikod.se/apollo-vr-12604060/
 
 Created in Altium Designer 17. Gerber files included.
 
+<img src="https://github.com/Konf/Apollo_1260_Voltage_Regulator/raw/master/Front.PNG" width="480">
+<img src="https://github.com/Konf/Apollo_1260_Voltage_Regulator/raw/master/Back.PNG" width="480">
+
 ## Some helpful info if you want to make this PCB
 
 Use 35um thick copper foil. Traces width was calculated with 35um foil in mind.
