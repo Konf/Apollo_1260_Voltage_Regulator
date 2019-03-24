@@ -6,6 +6,8 @@ This regulator should also work for Apollo 4060 and Apollo 3060, but not tested.
 
 Inspired by this project: https://www.ikod.se/apollo-vr-12604060/
 
+Created in Altium Designer 17. Gerber files included.
+
 ## Some helpful info if you want to make this PCB
 
 Use 35um thick copper foil. Traces width was calculated with 35um foil in mind.
